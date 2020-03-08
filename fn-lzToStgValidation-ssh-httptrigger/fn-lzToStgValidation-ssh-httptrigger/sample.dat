@@ -1,0 +1,7 @@
+Sample post request-
+{
+	"vmhost":"<IP>",
+	"vmuser":"<User>",
+	"vmpass":"<Pass>",
+	"vmscripttoexecute":"<command to execute on VM>"
+}
